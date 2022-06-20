@@ -1,4 +1,0 @@
------------------SYS-------------------
-C:\WINDOWS\System32\drivers\etc\hosts
------------------XAMPP------------------------
-C:\xampp\apache\conf\extra\httpd-vhosts.conf
